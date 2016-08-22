@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ActionBarDemos.iml" filepath="$PROJECT_DIR$/ActionBarDemos.iml" />
-      <module fileurl="file://$PROJECT_DIR$/EffectiveNavigation/app.iml" filepath="$PROJECT_DIR$/EffectiveNavigation/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EffectiveNavigation/EffectiveNavigation.iml" filepath="$PROJECT_DIR$/EffectiveNavigation/EffectiveNavigation.iml" />
     </modules>
   </component>
 </project>
